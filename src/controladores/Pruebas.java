@@ -10,5 +10,5 @@ package controladores;
  * @author Benjamin
  */
 public class Pruebas {
-    
+    int x;
 }
